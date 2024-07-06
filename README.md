@@ -14,8 +14,6 @@ The repository is organized as follows:
 ## Languages
 
 Solutions are primarily written in the following languages:
-- C++
-- Python
 - Java
 (Add or remove languages as applicable)
 

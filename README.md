@@ -42,6 +42,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-If you have any questions or want to reach out, feel free to [open an issue](https://github.com/AdrishikharChowdhury/repo-name/issues) on this repository.
+If you have any questions or want to reach out, feel free to [open an issue](https://github.com/AdrishikharChowdhury/GeeksForGeeks-Solutions/issues) on this repository.
 
 Happy Coding!
